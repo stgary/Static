@@ -1,2 +1,2 @@
-# Static
+# static
 Static Site Template
